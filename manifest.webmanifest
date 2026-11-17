@@ -1,0 +1,38 @@
+{
+ "name": "AS-532AL COUGAR — Aircrew Training",
+ "short_name": "COUGAR",
+ "description": "AS-532AL Cougar aircrew training: flashcards with spaced repetition, emergency check list trainer, warning-caution panel, limits, instrument markings and tests. Works offline.",
+ "lang": "en",
+ "dir": "ltr",
+ "id": "./index.html",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0F1318",
+ "theme_color": "#0F1318",
+ "categories": [
+  "education",
+  "reference"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
